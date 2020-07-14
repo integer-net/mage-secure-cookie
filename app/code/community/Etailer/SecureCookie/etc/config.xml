@@ -50,7 +50,17 @@
             </etailersecurecookie>
         </helpers>
     </global>
-    
+
+    <frontend>
+        <layout>
+            <updates>
+                <etailer_securecookie>
+                    <file>etailer_securecookie.xml</file>
+                </etailer_securecookie>
+            </updates>
+        </layout>
+    </frontend>
+
     <adminhtml>
         <translate>
             <modules>

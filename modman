@@ -1,0 +1,6 @@
+app/code/community/Etailer/SecureCookie
+app/etc/modules/Etailer_SecureCookie.xml
+app/locale/de_DE/Etailer_SecureCookie.csv
+js/etailer_securecookie
+app/design/frontend/base/default/layout/etailer_securecookie.xml
+app/design/frontend/default/default/layout/etailer_securecookie.xml
